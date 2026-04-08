@@ -1,0 +1,11 @@
+Win money now,1
+Free lottery ticket,1
+Claim your prize,1
+Meeting at 10am,0
+Project submission tomorrow,0
+Lunch with friends,0
+Cheap loan available,1
+Congratulations you won,1
+Team meeting today,0
+Important office update,0
+
